@@ -1,8 +1,8 @@
 # Operational Performance Report  
-## OEE, Downtime & Production Analysis (Nov 2024 – Jan 2025)
+## OEE, Downtime & Production Analysis (Nov 2025 – Jan 2026)
 
 ### Prepared by: Salwa Olonade  
-### Period Covered: November 2024 – January 2025
+### Period Covered: November 2025 – January 2026
 
 ---
 
@@ -19,7 +19,7 @@ The analysis covers the following production units:
 - AFL Line A
 - AFL Line B
 
-Each unit was evaluated over a three-month period (November 2024 to January 2025).
+Each unit was evaluated over a three-month period (November 2025 to January 2026).
 
 ---
 
